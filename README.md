@@ -12,11 +12,13 @@
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
-[GitHub Actions](https://docs.github.com/en/actions)
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-<!--
+# NEAR Protocol Developer Guide
+
+NEAR is dedicated to providing the best developer experience possible for building an open web. This mission is next to impossible to achieve without feedback and contributions from **people like you.** 👊
+
+### Get involved! 👉 
+Please select one of the options above or contribute to one of the essential developer repositories listed below 🙏
+
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
