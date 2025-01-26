@@ -30,7 +30,7 @@ Please select one of the options above or contribute to one of the essential dev
 
 | Command | Description |
 | --- | --- |
-| Website | ocnest.ai |
+| Website | [ocnest.ai](https://www.ocnest.ai/) |
 | DAPPS | ocnestai |
 | Whitepapper | https://ocnest-ai.gitbook.io/ocnest-ai-docs |
 
