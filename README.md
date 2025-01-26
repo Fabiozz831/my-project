@@ -12,6 +12,11 @@
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
+> The modern world is awash in data, much of it complex and difficult to process. From technical documentation and market analyses to regulatory updates and news articles, 
+> staying informed requires efficient processing and understanding of vast amounts of data. OcNest AI is a cutting-edge platform designed to address this challenge. By leveraging 
+> advanced Natural Language Processing (NLP) and Language Model (LLM) AI technology, OcNest AI transforms complex data into actionable insights, empowering users across various domains
+> to navigate information overload with greater clarity and efficiency. While initially conceived within the cryptocurrency landscape, its core functionality of intelligent information 
+> processing extends far beyond, offering significant value to a broad audience.
 
 <!--
   <<< Author notes: Step 1 >>>
