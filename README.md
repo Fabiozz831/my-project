@@ -12,12 +12,9 @@
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
-> The modern world is awash in data, much of it complex and difficult to process. From technical documentation and market analyses to regulatory updates and news articles, 
-> staying informed requires efficient processing and understanding of vast amounts of data. OcNest AI is a cutting-edge platform designed to address this challenge. By leveraging 
-> advanced Natural Language Processing (NLP) and Language Model (LLM) AI technology, OcNest AI transforms complex data into actionable insights, empowering users across various domains
-> to navigate information overload with greater clarity and efficiency. While initially conceived within the cryptocurrency landscape, its core functionality of intelligent information 
-> processing extends far beyond, offering significant value to a broad audience.
-
+1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
+   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
